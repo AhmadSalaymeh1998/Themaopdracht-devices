@@ -1,0 +1,4 @@
+# Themaopdracht-devices
+Devices play an important role in Technical Informatics. Many devices are provided with intelligence by means of software. All these devices have devices in the form of sensors, cameras, motors, etc. Moreover, the software often has to meet real-time requirements.\
+In this theme assignment you will work as a team on the design and realization of a prototype for the shooting game Lasertag. The hardware for this game consists of several devices, including an IR transmitter and receiver, an LCD, a speaker, a keyboard and a number of LEDs. For the execution of the assignment you also use the Arduino Due that you bought for the IPASS course.\
+You will learn how to design and realize software for a real-time system that uses different devices. The prototype must meet a number of time requirements in order to function correctly.
